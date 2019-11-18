@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1031125799770",
+    "firebase_url": "https://greenmedic499.firebaseio.com",
+    "project_id": "greenmedic499",
+    "storage_bucket": "greenmedic499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031125799770:android:632fc46ecea9fc59",
+        "android_client_info": {
+          "package_name": "com.capstone.greenmedic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031125799770-j07595nmn9qutu1ui6op5mbdr8ou51of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.greenmedic",
+            "certificate_hash": "5f8b9c19676ddf9651fdfb732b37f6e42aa17cae"
+          }
+        },
+        {
+          "client_id": "1031125799770-1fojr3m87j5n2minipsihmu8tfobtjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WzXUSZnUxL_PA4OClBgDQGiRHGBl8kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031125799770-1fojr3m87j5n2minipsihmu8tfobtjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031125799770:android:eddb89ff783d94d60e1963",
+        "android_client_info": {
+          "package_name": "com.capstone.greenmedicuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031125799770-h08514h0qfmgngiaio5ojkb8h6rg8ung.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.greenmedicuser",
+            "certificate_hash": "52df2e792d4e9a954af49dbb88ac8c5ecd78930b"
+          }
+        },
+        {
+          "client_id": "1031125799770-1fojr3m87j5n2minipsihmu8tfobtjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WzXUSZnUxL_PA4OClBgDQGiRHGBl8kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031125799770-1fojr3m87j5n2minipsihmu8tfobtjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
